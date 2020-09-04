@@ -39,6 +39,7 @@
 	response_disarm = "gently pushes aside"
 	response_harm   = "stomps"
 
+//LANDEN'S BEST BUDS!
 /mob/living/simple_animal/frog
 	name = "frog"
 	desc = "Ribbit!"
@@ -53,6 +54,7 @@
 	response_disarm = "gently pushes aside"
 	response_harm   = "stomps"
 	mob_size = 3
+	density = 0
 	faction = "pond"
 
 /mob/living/simple_animal/frog/rare
@@ -83,4 +85,5 @@
 	response_disarm = "gently pushes aside"
 	response_harm   = "stomps"
 	mob_size = 3
+	density = 0
 	faction = "pond"
